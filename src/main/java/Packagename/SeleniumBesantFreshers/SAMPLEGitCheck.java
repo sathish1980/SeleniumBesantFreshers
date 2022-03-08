@@ -5,6 +5,11 @@ public class SAMPLEGitCheck {
 	public void add() {
 		System.out.println("Additon");
 	}
+	
+	public void sub()
+	{
+		System.out.println("sub");
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
