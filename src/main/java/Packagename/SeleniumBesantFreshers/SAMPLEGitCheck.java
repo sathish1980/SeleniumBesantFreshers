@@ -2,6 +2,17 @@ package Packagename.SeleniumBesantFreshers;
 
 public class SAMPLEGitCheck {
 	
+	private int a=10;
+	
+	//getter method for name  
+	public int getName(){  
+	return a;  
+	}  
+	//setter method for name  
+	public void setName(int a){  
+	this.a=a ; 
+	}  
+	
 	public void add() {
 		System.out.println("Additon");
 	}
